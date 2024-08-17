@@ -1,0 +1,57 @@
+.postContainer img {
+  width: 50px;
+  display: block;
+}
+
+
+.postContainer {
+  text-align: center;
+  max-width: 300px;
+  margin: 5rem auto;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.PostsItem {
+  display: flex;
+  max-width: 600px;
+  margin-top: 2rem;
+  width: 100%;
+  background-color: #eeee;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 1px 1px 5px 1px #ccc;
+}
+
+.infos {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.views {
+  padding: 10px;
+}
+
+.mais {
+  display: inline-block;
+  text-align: end;
+  display: flex;
+  justify-content: end;
+}
+
+.mais p {
+  background-color: #333;
+  padding: 15px;
+  color: #fff;
+  width: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+  height: 10px;
+  border-radius: 50%;
+}

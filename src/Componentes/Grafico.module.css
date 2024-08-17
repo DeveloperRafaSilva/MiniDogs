@@ -1,0 +1,17 @@
+.acessos {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 3rem 0;
+}
+
+.grafico {
+  background-color: #fff;
+  padding: 1.5rem;
+
+  box-shadow: 1px 1px 5px 1px #ccc;
+  margin-top: 1rem;
+}
+
+.acessos p {
+  padding: 1.5rem;
+  box-shadow: 1px 1px 5px 1px #ccc;
+}
